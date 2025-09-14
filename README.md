@@ -12,7 +12,7 @@ Spobot, Discord botu ve Spotify entegrasyonu sağlayan bir uygulamadır. Bu bot,
 ### Adımlar
 1. Bu projeyi klonlayın veya indirin:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/blackeker/spobo)
    cd spobot
    ```
 
@@ -46,5 +46,6 @@ Spobot, Discord botu ve Spotify entegrasyonu sağlayan bir uygulamadır. Bu bot,
 - Bot çalıştırıldığında, Spotify'da çalan şarkı Discord durumunuza yansıtılır.
 
 ---
+
 
 **Bu proje Blackeker tarafından geliştirilmiştir.**
