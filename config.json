@@ -1,0 +1,6 @@
+{
+  "SPOTIFY_ID": "Spotify Client ID",
+  "SPOTIFY_SECRET": "Spotify Client Secret",
+  "SPOTIFY_TOKEN": "Spotify Refresh Token",
+  "DISCORD_TOKEN": "Discord Bot Token"
+}
